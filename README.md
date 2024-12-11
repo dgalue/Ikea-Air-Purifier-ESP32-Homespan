@@ -1,18 +1,17 @@
 # Ikea-Air-Purifier
-A HomeKit-enabled Ikea air purifier using HomeSpan and ESP32.
+A HomeKit-enabled Ikea air purifier project using the HomeSpan library and ESP32. This project supports dynamic fan speed control, RPM monitoring for filter usage tracking.
 
 ## Features
-- Control your air purifier via Apple HomeKit.
-- Dynamically adjusts fan speed using Pulses.
-- Tracks filter age and provides a warning when replacement is needed.
+- **HomeKit Integration**: Control the purifier using Apple HomeKit.
+- **Fan Speed Control**: Adjustable speed via a HomeKit slider.
+- **Filter Age Tracking**: Monitors filter usage and alerts when replacement is needed.
 
 ## Getting Started
 
 ### Hardware Requirements
 - ESP32 microcontroller
-- Air purifier hardware with PWM fan control
-- LEDs for status indication
-- Resistors and wiring components
+- IKEA Förnuftig air purifier
+- Resistor and wiring components
 
 ### Wiring Diagram
 ![Wiring Diagram](images/wiring_diagram.png)
