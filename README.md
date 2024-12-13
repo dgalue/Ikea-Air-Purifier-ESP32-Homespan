@@ -15,6 +15,8 @@ A HomeKit-enabled Ikea air purifier project using the HomeSpan library and ESP32
 - 10k Resistor and wiring components
 
 ### Wiring Diagram
+For a better expalantion, please watch the following video
+![Wiring Diagram](https://youtu.be/WB4xxhgggHQ?si=lsbKNFLI6UfYugmX))
 ![Wiring Diagram](Pictures/IMG_9646.JPEG)
 ![Wiring Diagram](Pictures/IMG_9648.JPEG)
 ### Software Requirements
