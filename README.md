@@ -10,6 +10,7 @@ A HomeKit-enabled Ikea air purifier project using the HomeSpan library and ESP32
 
 ### Hardware Requirements
 - ESP32 microcontroller
+- 3.3 to 5v Level Shifter for CLK and Interruptor
 - IKEA Förnuftig air purifier
 - Resistor and wiring components
 
