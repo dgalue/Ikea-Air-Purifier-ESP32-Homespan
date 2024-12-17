@@ -18,7 +18,7 @@ A HomeKit-enabled Ikea air purifier project using the HomeSpan library and ESP32
 ![Wiring Diagram](Pictures/IMG_9646.JPEG)
 ![Wiring Diagram](Pictures/IMG_9648.JPEG)
 For a better expalantion, please watch the following video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=WB4xxhgggHQ&t)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WB4xxhgggHQ&t/0.jpg)](https://www.youtube.com/watch?v=WB4xxhgggHQ&t)
 ### Software Requirements
 - Arduino IDE
 - [HomeSpan Library](https://github.com/HomeSpan/HomeSpan)
