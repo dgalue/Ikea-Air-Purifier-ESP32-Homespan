@@ -19,7 +19,7 @@ class AirPurifier : public Service::AirPurifier {
 
     const int PULSES_PER_REV = 2; // Assuming 2 pulses per revolution
     const unsigned long RPM_INTERVAL = 2000; // 2 seconds
-    const unsigned long FILTER_LIMIT = 3153600; // 6 months in seconds
+    const unsigned long FILTER_LIMIT = 15778476; // 6 months in seconds
     float filterAge = 0.0;
 
   public:
